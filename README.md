@@ -6,4 +6,4 @@ En este repositorio se puede hallar:
 - Archivo csv con las cabeceras de los departamentos de la provincia de Corrientes.
 - Archivo csv con la matriz OD (origin-destination) que refleja la menor distancia entre las cabeceras de los departamentos.
 
-Aclaración: El mapa presentado se puede replicar utilizando los archivos adjuntos en esta carpeta y QGIS u otro software similar.
+Aclaración: El mapa presentado se puede replicar utilizando los archivos adjuntos en esta carpeta y **QGIS** u otro software similar.
