@@ -1,4 +1,4 @@
-# Entrega-6
+# Proyecto-6-QGIS
 
 En este repositorio se puede hallar:
 
